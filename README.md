@@ -32,6 +32,18 @@ Bootcamp süresince yapılan çalışmalar ve ödevleri içerir.
 
 <img src="JavaProject/src/Java03/godoro/hw2/homework.png" width="auto">
 
+## JAVA 04
+
+### HOMEWORK 1
+
+<img src="JDBCProject/src/main/webapp/homework.gif" width="auto">
+
+### HOMEWORK 2
+
+<img src="JavaProject/src/Java03/godoro/hw2/homework.png" width="auto">
+
+
+
 
 
 
