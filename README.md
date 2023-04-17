@@ -8,5 +8,10 @@ Bootcamp süresince yapılan çalışmalar ve ödevleri içerir.
 
 <img src="src/Java01/godoro/education/Homework1.png" width="auto">
 
+### HOMEWORK 2
+
+<img src="src/Java01/godoro/sports/Homework2.png" width="auto">
 
 
+
+src/Java01/godoro/sports/Homework2.png
