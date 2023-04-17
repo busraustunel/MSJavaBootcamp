@@ -6,4 +6,7 @@ Bootcamp süresince yapılan çalışmalar ve ödevleri içerir.
 
 ### HOMEWORK 1
 
+<img src="src/Java01/godoro/education/Homework1.png" width="auto">
+
+
 
