@@ -36,7 +36,7 @@ Bootcamp süresince yapılan çalışmalar ve ödevleri içerir.
 
 ### HOMEWORK 1
 
-<img src="JDBCProject/src/main/webapp/homework.gif" width="auto">
+<img src="JDBCProject/hw1/src/main/webapp/homework.gif" width="auto">
 
 ### HOMEWORK 2
 
