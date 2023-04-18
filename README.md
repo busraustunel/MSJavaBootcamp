@@ -1,5 +1,4 @@
 # MSJavaBootcamp
-<<<<<<< HEAD
 
 Bootcamp süresince yapılan çalışmalar ve ödevleri içerir. 
 
@@ -39,15 +38,4 @@ Bootcamp süresince yapılan çalışmalar ve ödevleri içerir.
 
 <img src="JDBCProject/hw1/src/main/webapp/homework.gif" width="auto">
 
-
-
-
-
-
-
-
-
-
-
-=======
->>>>>>> 08d2304 (add final project)
+# FINAL PROJECT
