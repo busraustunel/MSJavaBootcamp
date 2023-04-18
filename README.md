@@ -38,7 +38,6 @@ Bootcamp süresince yapılan ödevler ve bitirme projesini içerir.
 
 # FINAL PROJECT
 
-<img src="FinalPRoject/final.gif" width="auto">
 
 
 
