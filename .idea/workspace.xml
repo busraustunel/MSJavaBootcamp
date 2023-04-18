@@ -4,51 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a695c8d0-9e19-4612-b72c-46a997702f98" name="Changes" comment="add homework 2">
-      <change afterPath="$PROJECT_DIR$/../homework/src/main/webapp/Home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework/src/main/webapp/Login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework/src/main/webapp/Logout.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/src/main/java/com/example/homework/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/src/main/webapp/Home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/src/main/webapp/Login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/src/main/webapp/Logout.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/src/main/webapp/homework.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/target/classes/com/example/homework/HelloServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/target/homework-1.0-SNAPSHOT/Home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/target/homework-1.0-SNAPSHOT/Login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/target/homework-1.0-SNAPSHOT/Logout.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/target/homework-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/target/homework-1.0-SNAPSHOT/WEB-INF/classes/com/example/homework/HelloServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/target/homework-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBCProject/hw1/target/homework-1.0-SNAPSHOT/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homeworks/Java01/godoro/education/Classroom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homeworks/Java01/godoro/education/School.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homeworks/Java01/godoro/education/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homeworks/Java01/godoro/education/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homeworks/Java01/godoro/sports/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homeworks/Java01/godoro/sports/Team.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homeworks/Java01/godoro/sports/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homeworks/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java01/godoro/education/Classroom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java01/godoro/education/School.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java01/godoro/education/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java01/godoro/education/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java01/godoro/sports/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java01/godoro/sports/Team.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java01/godoro/sports/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="a695c8d0-9e19-4612-b72c-46a997702f98" name="Changes" comment="add homework 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -106,6 +62,7 @@
       <workItem from="1681714280476" duration="316000" />
       <workItem from="1681714682355" duration="4052000" />
       <workItem from="1681720100818" duration="1088000" />
+      <workItem from="1681781200257" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="add homework 2">
       <created>1681715874541</created>
