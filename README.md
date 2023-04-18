@@ -40,7 +40,7 @@ Bootcamp süresince yapılan çalışmalar ve ödevleri içerir.
 
 # FINAL PROJECT
 
-<img src="FinalPRoject/final.gif" width="100%">
+<img src="FinalPRoject/final.gif" width="auto">
 
 
 
