@@ -34,8 +34,6 @@ Bootcamp süresince yapılan çalışmalar ve ödevleri içerir.
 
 ## JAVA 04
 
-### HOMEWORK 1
-
 <img src="JDBCProject/hw1/src/main/webapp/homework.gif" width="auto">
 
 # FINAL PROJECT
