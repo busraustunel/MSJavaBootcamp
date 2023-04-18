@@ -1,6 +1,6 @@
 # MSJavaBootcamp
 
-Bootcamp süresince yapılan çalışmalar ve ödevleri içerir. 
+Bootcamp süresince yapılan ödevler ve bitirme projesini içerir.
 
 ## JAVA 01
 
