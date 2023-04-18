@@ -38,7 +38,7 @@ Bootcamp süresince yapılan çalışmalar ve ödevleri içerir.
 
 <img src="JDBCProject/hw1/src/main/webapp/homework.gif" width="auto">
 
-# FINAL PROJECT
+
 
 
 
